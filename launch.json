@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Start Game",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "StartGame.py"
+        }
+
+    ]
+}
